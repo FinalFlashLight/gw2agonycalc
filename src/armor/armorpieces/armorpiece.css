@@ -1,0 +1,10 @@
+.armorpiecebox {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.agonybox {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
